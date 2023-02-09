@@ -1,0 +1,90 @@
+/*
+  =======================
+         common css  
+  ======================= 
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+uo,ol{
+    list-style: none;
+}
+.container {
+    width: 940px;
+    /* height: 20px; */
+    margin: 0 auto;
+    background: teal;
+}
+/*
+  =======================
+         Header css  
+  ======================= 
+*/
+#header{
+    background: #1872b5;
+    height: 32px;
+}
+.top-content{
+    float: left;
+}
+.top-content p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 32px;
+    color: #e7e7e7;
+}
+.top-icon{
+    float: right;
+}
+.top-icon a{
+    line-height: 32px;
+    margin-left: 14px;
+    font-size: 14px;
+    color: #e7e7e7;
+    
+}
+.top-icon a:hover{
+    color: #353535;
+}
+/*
+  =======================
+         Menu css  
+  ======================= 
+*/
+/*
+  =======================
+         Banner css  
+  ======================= 
+*/
+/*
+  =======================
+         About css  
+  ======================= 
+*/
+/*
+  =======================
+         Service css  
+  ======================= 
+*/
+/*
+  =======================
+         Portfolio css  
+  ======================= 
+*/
+/*
+  =======================
+         Team css  
+  ======================= 
+*/
+/*
+  =======================
+         Footer css  
+  ======================= 
+*/
